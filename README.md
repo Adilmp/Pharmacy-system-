@@ -5,9 +5,14 @@ This Pharmacy Management System was developed with the goal of simplifying the d
 ✨ Features:
 
 Inventory Management: Track stock levels, manage orders, and prevent shortages.
+
 Prescription Handling: Easy storage and retrieval of prescriptions, with a built-in search function.
+
 Billing Automation: Generate accurate bills for customers with just a few clicks.
+
 Customer Database: Maintain detailed customer records for efficient service and follow-ups.
+
+
 I built this project as a real-world solution, which could significantly helped streamline the operations at a local pharmacy.
 
 💻 Built with: C Programming Language
